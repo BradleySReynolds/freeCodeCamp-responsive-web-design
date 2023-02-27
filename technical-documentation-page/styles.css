@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+ul {
+  padding-left: 100px;
+}
+
+.nav-list-item {
+  padding: 24px 48px;
+  border: 1px solid #eee;
+}
